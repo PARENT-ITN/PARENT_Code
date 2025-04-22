@@ -1,0 +1,10 @@
+{"Setup Info" : {"distance": 60,
+		"diagonal" : 60},
+"Compute parameters": {
+	"Dummy": {"max_nan" : 14, 
+                  "fix_params" : {"minimum_duration" : 0.15,
+                          "max_dist" : 30,
+                          "max_nan" : 14,
+                          "mode" : "pixel"}}
+
+}}
